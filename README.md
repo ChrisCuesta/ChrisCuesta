@@ -1,6 +1,6 @@
 ![ChrisCuesta Banner](Banner.jpg)
 
-<!-- ## 👋 &nbsp;Hola, soy Christian Cuesta -->
+## 👋 &nbsp;Hola, soy Christian Cuesta
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
