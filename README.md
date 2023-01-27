@@ -9,7 +9,7 @@
 ✍️ &nbsp;Formo parte de la Universidad Técnica de Ambato\
 ✉️ &nbsp;Mi correo para contactarme: chriscuesta02@hotmail.com
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Conocimientos
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
