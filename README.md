@@ -44,6 +44,6 @@
 
 ### 💁 &nbsp;Mí portafolio web
 <p align="center">
-  <a href="http://christiancuesta.x10.mx/"><img src="https://img.shields.io/badge/Christian Cuesta-FF1B2D?style=flat&logo=Brave&logoColor=white"/>
+  <a href="https://chriscuesta.netlify.app/"><img src="https://img.shields.io/badge/Christian Cuesta-FF1B2D?style=flat&logo=Brave&logoColor=white"/>
 </a>
 </p>
