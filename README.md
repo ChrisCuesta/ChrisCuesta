@@ -39,7 +39,7 @@
 <a href="https://www.linkedin.com/in/christian-cuesta/"><img src="https://img.shields.io/badge/-Christian%20Cuesta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/chriscuesta1/"><img src="https://img.shields.io/badge/-@chriscuesta1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/christian.cuesta1"><img src="https://img.shields.io/badge/-Christian%20Cuesta-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/chriscuesta02"><img src="https://img.shields.io/badge/-@chriscuesta02-FFFFFF?style=flat&logo=Twitter&logoColor=blue"/></a>
+<a href="https://x.com/chriscuestat"><img src="https://img.shields.io/badge/-@chriscuestat-FFFFFF?style=flat&logo=X&logoColor=black"/></a>
 </p>
 
 ### 💁 &nbsp;Mí portafolio web
