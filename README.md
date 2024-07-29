@@ -5,8 +5,8 @@
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 💡 &nbsp;Desarrollador Jr.\
-🎓 &nbsp;Actualmente estoy terminando el pregrado en la carrera de Ingeniería de Software\
-✍️ &nbsp;Formo parte de la Universidad Técnica de Ambato\
+🎓 &nbsp;Graduado de Ingeniería de Software\
+✍️ &nbsp;Universidad Técnica de Ambato\
 ✉️ &nbsp;Mi correo para contactarme: chriscuesta02@hotmail.com
 
 ### 🛠 &nbsp;Conocimientos
